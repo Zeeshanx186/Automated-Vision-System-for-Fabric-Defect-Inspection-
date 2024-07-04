@@ -1,0 +1,7 @@
+path: /kaggle/working/yolo/data
+train: /kaggle/working/yolo/data/images/train
+val: /kaggle/working/yolo/data/images/val
+test: /kaggle/working/yolo/data/images/test
+
+names:
+    0: defective
