@@ -52,5 +52,13 @@ We have used the ZJU Leaper dataset that is the benchmark for fabric defect dete
 
 # Results
 ![image](https://github.com/Zeeshanx186/Automated-Vision-System-for-Fabric-Defect-Inspection-/assets/101282364/3f174ee3-f55d-4b76-9afd-6fb37cb1da4a)
-![image](https://github.com/user-attachments/assets/3d023574-8596-4c60-9493-487f403f1f54)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3d023574-8596-4c60-9493-487f403f1f54" alt="image" width="500"/>
+</div>
+<div align="center">
+  <img src="https://www.kaggleusercontent.com/kf/123747350/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..eliFjwccjFuwzw96YTWtkA.LD2rOprkNqobLnIV520ayaeT6Gxi8nBV1Fbb_51lO9SsrdpajQ4eR8SI2AAqrKr7_15mUoJooAS78L7p0c8NU1IgQbyU_q0dCKxGCokZ1WNif_OcdyoAwygOz6VyMH2Loo210JSTQgD2kfUX4mfecWBNjCIepJzB2VQslUAeIirAtzJGw6VHWJuZHJ2y1BVAdIhV4_ilYfcJRjTfTou_dnwOFMIqjQ9WLxFpJqoWdhPqDT732tn1QEc1U-CR7zp_WOhxdhY7Zft-R7ExxifPeu_HkeF9iHuvCQKg780k630uV1I1xZjA2LgPsiGNz3flCgWs_C-CUHWWoBMfhGqCMKQxAvUkfQ2qf1d9ay1LjMpaqfQQwuI9-8O9q3YgW-11aV0qvvxeIbj09nDhDcMNT9Y7vJBLyu6Uqdlx-EtN2FqyWwMyb808WAYCQ5dZsB_zJ02nFBlkshFN2larhPBL1LeVBAV1QbG1_d4x_CzXhgc9GXrYJqlri_9P4C8DpX8Vt36zcWJJcoCliEn5EH1OqtuAVWrgXRTpE0I6Z8QsfCz17GF3F2qrIuRU8MXVc1T9dil02PiIC0TiQ4G_c6Ae5Z-zTJ0TD-mga5flAjUwESZsNJwS3n69I270dvxo_Ere.Xadcw3isw_4q9t0edtOwSg/__results___files/__results___35_0.png" alt="image" width="500"/>
+</div>
+<div align="center">
+  <img src="https://www.kaggleusercontent.com/kf/123747350/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..eliFjwccjFuwzw96YTWtkA.LD2rOprkNqobLnIV520ayaeT6Gxi8nBV1Fbb_51lO9SsrdpajQ4eR8SI2AAqrKr7_15mUoJooAS78L7p0c8NU1IgQbyU_q0dCKxGCokZ1WNif_OcdyoAwygOz6VyMH2Loo210JSTQgD2kfUX4mfecWBNjCIepJzB2VQslUAeIirAtzJGw6VHWJuZHJ2y1BVAdIhV4_ilYfcJRjTfTou_dnwOFMIqjQ9WLxFpJqoWdhPqDT732tn1QEc1U-CR7zp_WOhxdhY7Zft-R7ExxifPeu_HkeF9iHuvCQKg780k630uV1I1xZjA2LgPsiGNz3flCgWs_C-CUHWWoBMfhGqCMKQxAvUkfQ2qf1d9ay1LjMpaqfQQwuI9-8O9q3YgW-11aV0qvvxeIbj09nDhDcMNT9Y7vJBLyu6Uqdlx-EtN2FqyWwMyb808WAYCQ5dZsB_zJ02nFBlkshFN2larhPBL1LeVBAV1QbG1_d4x_CzXhgc9GXrYJqlri_9P4C8DpX8Vt36zcWJJcoCliEn5EH1OqtuAVWrgXRTpE0I6Z8QsfCz17GF3F2qrIuRU8MXVc1T9dil02PiIC0TiQ4G_c6Ae5Z-zTJ0TD-mga5flAjUwESZsNJwS3n69I270dvxo_Ere.Xadcw3isw_4q9t0edtOwSg/__results___files/__results___35_1.png" alt="image" width="500"/>
+</div>
 
