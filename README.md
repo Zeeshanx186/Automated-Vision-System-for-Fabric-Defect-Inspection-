@@ -52,3 +52,5 @@ We have used the ZJU Leaper dataset that is the benchmark for fabric defect dete
 
 # Results
 ![image](https://github.com/Zeeshanx186/Automated-Vision-System-for-Fabric-Defect-Inspection-/assets/101282364/3f174ee3-f55d-4b76-9afd-6fb37cb1da4a)
+![image](https://github.com/user-attachments/assets/3d023574-8596-4c60-9493-487f403f1f54)
+
